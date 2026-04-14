@@ -7,6 +7,9 @@ A full-stack web application that generates personalized AI-powered marketing ca
 
 # CampaignRAG - Complete Project Documentation
 
+<img width="1853" height="967" alt="image" src="https://github.com/user-attachments/assets/63ad00a7-06d9-4557-bcc1-0bb2fbe8ba37" />
+
+
 > AI-Powered Marketing Campaign Generator with Retrieval-Augmented Generation
 
 A full-stack web application that generates personalized AI-powered marketing campaigns using RAG (Retrieval-Augmented Generation), combining React + Vite, Express, MongoDB, and OpenAI.
